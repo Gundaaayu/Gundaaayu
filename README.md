@@ -41,5 +41,3 @@ Feel free to explore my projects, star the ones you like, and follow me on my le
 Happy coding! 💻✨
 
 ---
-
-Note: Replace the placeholders in brackets "[ ]" with your actual information. Feel free to customize the README file to showcase your own projects and learning goals in web development. Good luck on your journey! 🌱
